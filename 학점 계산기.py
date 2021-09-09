@@ -1,6 +1,3 @@
-모범 답안
-
-
 def print_grade(midterm_score, final_score):
     total = midterm_score + final_score
     if total >= 90:
